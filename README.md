@@ -1,0 +1,4 @@
+Product Demand Prediction with Machine Learning
+From the economics we studied that the demand for a product varies with the change in its price. As real-world examples, we can see that if the product is not a necessity, then its demand decreases with the increase in its price and the demand increases with the decrease in its price. In this project we will predict demand for a good using total and base prices for a good and the units sold applying machine learning and Python. The dataset used for this projects is taken from the following github source: https://raw.githubusercontent.com/amankharwal/Website-data/master/demand.csv
+
+The dataset contains following information: 1)the product id; 2)store id; 3)total price at which product was sold; 4)base price at which product was sold; 5)Units sold (quantity demanded)
